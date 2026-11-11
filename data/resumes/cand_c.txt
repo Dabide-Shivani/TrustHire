@@ -1,0 +1,9 @@
+Rahul Verma
+rahul.v@example.com | 90000 11122
+
+Education: B.Tech ECE, 2025, CGPA 7.4
+
+Projects
+- Portfolio website using HTML, CSS and JavaScript.
+
+Skills: HTML, CSS, JavaScript, some Python

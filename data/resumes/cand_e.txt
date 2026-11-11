@@ -1,0 +1,11 @@
+Sneha Reddy
+sneha.reddy@example.com | 98480 12345
+Marital Status: Single
+
+Education: B.Tech CSE (AI & ML), 2025, CGPA 9.3
+
+Projects
+- Job Recommender: Python, FastAPI, PostgreSQL; REST endpoints, SQL joins, Dockerized.
+- Java OOP Banking System: inheritance, interfaces, exception handling, JUnit tests.
+
+Skills: Java, Python, SQL, REST, Git, Docker, scikit-learn

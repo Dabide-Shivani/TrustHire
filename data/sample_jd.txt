@@ -1,0 +1,16 @@
+Junior Backend Engineer
+
+We are looking for a Junior Backend Engineer to build and maintain REST APIs.
+
+Requirements:
+- Strong Java and OOP fundamentals
+- Experience with Spring Boot or a similar framework
+- Good SQL skills (joins, indexing, schema design)
+- Understanding of REST and HTTP
+- Git and basic testing
+
+Nice to have:
+- Docker, cloud basics
+- Exposure to ML or data pipelines
+
+Experience: 0-2 years. Freshers with strong projects are welcome.

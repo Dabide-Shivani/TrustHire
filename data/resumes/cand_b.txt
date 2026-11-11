@@ -1,0 +1,11 @@
+Priya Nair
+priya.nair@example.com | 99887 76655
+Date of Birth: 12/04/2003
+
+Education: B.Tech IT, 2025, CGPA 8.2
+
+Projects
+- Student Portal: Java servlets and JDBC with Oracle; wrote joins and stored procedures.
+- Sentiment Analyzer: Python, scikit-learn, 84% accuracy on movie reviews.
+
+Skills: Java, SQL, Python, Git, HTML, CSS

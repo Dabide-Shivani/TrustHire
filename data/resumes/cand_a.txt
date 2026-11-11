@@ -1,0 +1,13 @@
+Aarav Mehta
+aarav.mehta@example.com | +91 98765 43210 | linkedin.com/in/aarav-mehta
+Gender: Male
+Age: 22
+
+Education: B.Tech CSE, 2025, CGPA 8.9
+
+Projects
+- Library Management API: Built REST APIs in Java with Spring Boot and MySQL; designed 6 normalized tables, added indexes, wrote JUnit tests.
+- Expense Tracker: Spring Boot + PostgreSQL, JWT authentication, deployed with Docker.
+
+Skills: Java, Spring Boot, SQL, Git, JUnit, Docker
+Internship: 3 months backend intern, built 4 REST endpoints used by the mobile team.

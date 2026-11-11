@@ -1,0 +1,9 @@
+Karan Singh
+karan.singh@example.com | 91234 56789
+
+Education: B.Tech CSE, 2025, CGPA 9.1
+
+Skills: Java (expert), Spring Boot (expert), Kubernetes (expert), Kafka (expert),
+TensorFlow (expert), Rust (expert), Go (expert), AWS (expert), SQL (expert)
+Experience: Led development of scalable microservices handling 10 million users.
+Projects: Built several high-performance systems.
