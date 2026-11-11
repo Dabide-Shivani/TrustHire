@@ -92,4 +92,9 @@ PDF resume parsing, a bias test (same resume with a different name), stronger
 anonymization, signed audit checkpoints, role-based access.
 
 ## Screenshots
-Add screenshots of the candidate view and audit tab in `docs/` and link them here.
+**Candidate review:** ranked results, evidence quotes and consistency flags
+![Candidates view](docs/candidates.png)
+
+**Audit trail:** verification, and detection of a tampered event
+![Audit verified](docs/audit-verify.png)
+![Tamper detected](docs/audit-tamper.png)
